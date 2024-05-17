@@ -30,6 +30,4 @@
   </tr>
 </table>
 
-<div align="center">
-  ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical)
-</div>
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical)
