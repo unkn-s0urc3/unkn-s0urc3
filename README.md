@@ -29,7 +29,3 @@
     <td>SQL</td>
   </tr>
 </table>
-
-<div align="center">
-  ![Statistics on Github](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical)
-</div>
