@@ -24,7 +24,7 @@
     <td>Python</td>
     <td>C#</td>
     <td>F#</td>
-    <td>VBA (Visual Basic for Applications)</td>
+    <td>VBA</td>
     <td>VB.NET</td>
     <td>SQL</td>
   </tr>
