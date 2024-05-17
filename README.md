@@ -1,3 +1,6 @@
 <div align="center">
-  <img src="https://github.com/unkn-source/unkn-source/assets/165537535/3a585790-db4c-4e8c-9561-6453332fc4b7" alt="giphy" width="800"/>
+  <img src="https://github.com/unkn-source/unkn-source/assets/165537535/06f81c01-b6fb-4592-87d1-8b0484987fd5" alt="giphy" width="800"/>
+
+  ![giphy](https://github.com/unkn-source/unkn-source/assets/165537535/06f81c01-b6fb-4592-87d1-8b0484987fd5)
+
 </div>
