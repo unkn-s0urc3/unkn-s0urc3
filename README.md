@@ -5,15 +5,30 @@
 # Developer Profile
 
 ## Programming Languages
-- **C**
-- **C++**
-- **Java**
-- **Python**
-- **C#**
-- **F#**
-- **VBA (Visual Basic for Applications)**
-- **VB.NET**
-- **SQL**
+- <table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="VBA" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VB.NET" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>C++</td>
+    <td>Java</td>
+    <td>Python</td>
+    <td>C#</td>
+    <td>F#</td>
+    <td>VBA (Visual Basic for Applications)</td>
+    <td>VB.NET</td>
+    <td>SQL</td>
+  </tr>
+</table>
 
 - ## Technologies and Tools
 - **Frameworks and Libraries:** .NET, ASP.NET, Spring, Django, Flask
