@@ -31,5 +31,5 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical" alt="giphy" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical" width="300"/>
 </div>
