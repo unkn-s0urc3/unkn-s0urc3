@@ -5,7 +5,7 @@
 # Developer Profile
 
 ## Programming Languages
-<table>
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></td>
