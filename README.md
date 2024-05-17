@@ -29,16 +29,3 @@
     <td>SQL</td>
   </tr>
 </table>
-
-## Contact
-<table>
-  <tr>
-    <td><a href="mailto:unkn.s0urc3@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/></a></td>
-    <td><a href="mailto:unkn.source@protonmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ProtonMail_Logo.png" alt="ProtonMail" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td>unkn.s0urc3@gmail.com</td>
-    <td>yourname@protonmail.com</td>
-    <td>yourname@mail.ru</td>
-  </tr>
-</table>
