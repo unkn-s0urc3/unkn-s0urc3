@@ -4,9 +4,7 @@
 
 # Developer Profile
 
-## Skills
-
-### Programming Languages
+## Programming Languages
 - **C**
 - **C++**
 - **Java**
@@ -17,7 +15,7 @@
 - **VB.NET**
 - **SQL**
 
-- ### Technologies and Tools
+- ## Technologies and Tools
 - **Frameworks and Libraries:** .NET, ASP.NET, Spring, Django, Flask
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Azure DevOps
