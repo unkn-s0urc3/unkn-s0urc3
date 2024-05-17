@@ -29,3 +29,5 @@
     <td>SQL</td>
   </tr>
 </table>
+
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=ВашUsername&show_icons=true&theme=radical)
