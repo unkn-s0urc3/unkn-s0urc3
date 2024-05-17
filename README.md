@@ -3,6 +3,10 @@
 </div>
 
 # Developer Profile
+## GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical" alt="GitHub Statistics"/>
+</div>
 
 ## Programming Languages
 <table align="center">
@@ -38,8 +42,3 @@
 5. **ASP.NET MVC**: A framework for building web applications based on the MVC (Model-View-Controller) pattern. Makes it easy to separate business logic, user interface, and data.
 6. **WPF (Windows Presentation Foundation)**: A framework for building desktop applications for Windows using a graphical user interface. Provides rich capabilities for creating modern and appealing user interfaces.
 7. **Xamarin**: A platform for developing cross-platform mobile applications using C#. Allows developers to create applications for iOS and Android using shared code.
-
-## GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical" alt="GitHub Statistics"/>
-</div>
