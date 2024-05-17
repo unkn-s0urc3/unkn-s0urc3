@@ -30,4 +30,6 @@
   </tr>
 </table>
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=radical" alt="GitHub Статистика"/>
+</div>
