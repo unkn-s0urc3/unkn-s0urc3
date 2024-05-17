@@ -5,7 +5,7 @@
 # Developer Profile
 
 ## Programming Languages
-- <table>
+<table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></td>
@@ -29,9 +29,3 @@
     <td>SQL</td>
   </tr>
 </table>
-
-- ## Technologies and Tools
-- **Frameworks and Libraries:** .NET, ASP.NET, Spring, Django, Flask
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Azure DevOps
-- **Others:** Git, RESTful API, SOAP, Microservices
