@@ -15,10 +15,10 @@
 </div>
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-source)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unkn-source)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=unkn-source&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unkn-source)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unkn-source&theme=github)
