@@ -1,3 +1,5 @@
+<h1 align="center">Hello, I'm unkn-source!</h1>
+
 <div align="center">
   <img src="https://github.com/unkn-source/unkn-source/assets/165537535/06f81c01-b6fb-4592-87d1-8b0484987fd5" alt="giphy" width="500"/>
 </div>
@@ -17,7 +19,6 @@
 ## My Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=unkn-source&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=dark" alt="GitHub stats" style="margin-right: 50px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=dark" alt="Top Langs" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=dark)
