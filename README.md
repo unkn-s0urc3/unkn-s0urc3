@@ -15,8 +15,10 @@
 </div>
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=dark)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=unkn-source&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unkn-source&show_icons=true&theme=dark" alt="GitHub stats" style="margin-right: 10px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=dark" alt="Top Langs" />
+</p>
