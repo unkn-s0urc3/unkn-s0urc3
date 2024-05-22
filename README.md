@@ -15,11 +15,10 @@
 </div>
 
 ## My Stats
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=unkn-source&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-source)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-source)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=unkn-source)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unkn-source)
