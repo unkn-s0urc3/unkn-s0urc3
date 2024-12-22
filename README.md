@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <h3 align="left">🔥 My statistics:</h3>
 
 <div align="center">
