@@ -22,6 +22,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
-<p align="center">
+<p align="left">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
