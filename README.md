@@ -20,6 +20,18 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
+<h2 align="left">⚙️ C# and .NET:</h2>
+
+1. Web Development: Building applications and APIs using ASP.NET Core (MVC, Razor Pages, Web API) and Blazor (Server/WebAssembly).
+
+2. Database Work: ORM with Entity Framework Core, high-performance SQL queries with Dapper, and working with NoSQL storage using LiteDB.
+
+3. Cross-Platform Applications: Developing mobile and desktop applications using MAUI and Xamarin.Forms.
+
+4. Testing: Writing unit tests with xUnit and leveraging mocking libraries like Moq.
+
+5. Network Requests: REST API integration using RestSharp.
+
 <h1 align="left">📊 My Stats</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-s0urc3&layout=compact&theme=dark)
