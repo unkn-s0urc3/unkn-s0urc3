@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
-<h2 align="left">⚙️ C и C++:</h2>
+<h2 align="left">⚙️ C and C++:</h2>
 
 1. Desktop applications: Developing applications with graphical interfaces using Qt and GTK
 
@@ -38,6 +38,16 @@
 
 5. Network Requests: REST API integration using RestSharp.
 
+<h2 align="left">⚙️ Java:</h2>
+
+1. Desktop applications: Developing applications with graphical interfaces using JavaFX or Swing.
+
+2. Database work: Setting up database connections, writing SQL queries, using libraries for interacting with databases (JDBC, Hibernate), and processing data in applications.
+
+3. Web development: Creating web applications using Spring and Spring Boot, as well as writing RESTful APIs.
+
+4. Task automation: Writing scripts and programs to automate various tasks, including file processing and working with APIs.
+
 <h2 align="left">⚙️ Python:</h2>
 
 1. Desktop applications: Developing applications with graphical interfaces using PyQt.
@@ -45,7 +55,6 @@
 2. Database work: Setting up database connections, writing SQL queries, using libraries for interacting with databases, and processing data in applications.
 
 3. Task automation: Writing scripts to automate various tasks, including working with files, APIs, and making network requests.
-
 
 <h1 align="left">📊 My Stats</h1>
 
