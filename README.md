@@ -57,11 +57,3 @@
 2. Database work: Setting up database connections, writing SQL queries, using libraries for interacting with databases, and processing data in applications.
 
 3. Task automation: Writing scripts to automate various tasks, including working with files, APIs, and making network requests.
-
-<h1 align="left">📊 My Stats</h1>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn-s0urc3&layout=compact&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn-s0urc3&show_icons=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=unkn-s0urc3&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
