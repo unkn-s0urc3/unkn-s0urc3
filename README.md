@@ -20,13 +20,13 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
 
-<h2 align="left">⚙️ C and C++:</h2>
+<h2 align="left">🛠️ C and C++:</h2>
 
 1. Desktop applications: Developing applications with graphical interfaces using Qt and GTK
 
 2. Database work: Experience with database integration, writing SQL queries, and using libraries for interacting with databases.
 
-<h2 align="left">⚙️ C# and .NET:</h2>
+<h2 align="left">#️⃣ C# and .NET:</h2>
 
 1. Web Development: Building applications and APIs using ASP.NET Core (MVC, Razor Pages, Web API) and Blazor (Server/WebAssembly).
 
@@ -38,7 +38,7 @@
 
 5. Network Requests: REST API integration using RestSharp.
 
-<h2 align="left">⚙️ Java:</h2>
+<h2 align="left">☕ Java:</h2>
 
 1. Desktop applications: Developing applications with graphical interfaces using JavaFX or Swing.
 
@@ -48,7 +48,7 @@
 
 4. Task automation: Writing scripts and programs to automate various tasks, including file processing and working with APIs.
 
-<h2 align="left">⚙️ Python:</h2>
+<h2 align="left">🐍 Python:</h2>
 
 1. Desktop applications: Developing applications with graphical interfaces using PyQt.
 
