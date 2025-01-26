@@ -6,9 +6,9 @@
         --      @@@@@@@@@@@@@@@@@@@@@@@@@@@@.     .:        |                                                                    |
        %@@@#:  +@@@@@@@@@@@@@@@@@@@@@@@@@@@@*  :%@@@@       |                        Hi, I’m unkn-s0urc3                         |
      :*@@@@@@*.*@@%@@@@@@@@@@@@@@@@@@@@@@%@@@ -@@@@@@%-     |                                                                    |
-    +@@@@@@@@@%#@@@#@@@@@@@@@@@@@@@@@@@@%#@@@+@@@@@@@@@*    |     I am a software developer with a keen interest in exploring    |
-    .@@@@@@@@@@=@@*@@@@@@@@@@@@@@@@@@@@@@#%@**@@@@@@@@@:    |    and implementing various technologies.   My primary focus is    |
-     .+###%%%%@=@*@%=-:--=*@@@@@@#=:::-=%@#@-@@%#####*.     |    on continuous learning and enhancing my programming   skills    |
+    +@@@@@@@@@%#@@@#@@@@@@@@@@@@@@@@@@@@%#@@@+@@@@@@@@@*    |     I’m a software developer with a keen interest in exploring     |
+    .@@@@@@@@@@=@@*@@@@@@@@@@@@@@@@@@@@@@#%@**@@@@@@@@@:    |    and implementing various technologies.  My primary focus is     |
+     .+###%%%%@=@*@%=-:--=*@@@@@@#=:::-=%@#@-@@%#####*.     |    on continuous learning and enhancing my programming  skills     |
                :**@.       .@@@@=        %%=..              |    through practical application and experimentation.              |
                 =%@        -@@@@+        #@=                |                                                                    |
                .@@@-     :*@*=++@#-     :@@@                |     You can reach me at:                                           |
